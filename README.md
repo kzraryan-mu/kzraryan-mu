@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kzraryan-mu
 - 👀 I’m interested in data science and software development
-- 🌱 I’m currently learning about cerner populated electronic health record data, US Census Bureau data
+- 🌱 I’m currently working on cerner populated electronic health record data, US Census Bureau data
 - 💞️ I’m looking to collaborate on projects using cloud computing and machine learning
 - 📫 mrkfw@mail.missouri.edu 172.28.28.203.
 
